@@ -40,7 +40,7 @@ This project demonstrates *real-time moving object detection and tracking* using
 
 ### 1️⃣ Clone the repository
 bash
-git clone https://github.com/yourusername/Dynamic-Object-Detection.git
+git clone https://github.com/Aravindhan2212/Dynamic-Object-Detection.git
 cd Dynamic-Object-Detection
 
 
@@ -98,8 +98,8 @@ The system uses:
 *Aravindhan K*  
 Master of Computer Applications (MCA)  
 Mailam Engineering College  
-Email: [your-email@example.com]  
-LinkedIn: [your-linkedin-profile]
+Email: [aravindhankumar1220@gmail.com]  
+LinkedIn: https://www.linkedin.com/in/aravindhan-k-34b288228
 
 ---
 
